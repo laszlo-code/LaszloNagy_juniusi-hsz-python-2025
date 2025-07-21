@@ -1,0 +1,5 @@
+Total score: 1305
+Average score: 65.25
+Number of students with at least 60 points: 12
+Best student: Juhász Róbert (95 points)
+Weakest student: Lukács Dénes (33 points)

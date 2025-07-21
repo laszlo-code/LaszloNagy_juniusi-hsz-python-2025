@@ -1,0 +1,12 @@
+Total items ordered: 63
+Number of 'P�k�ru' orders: 0
+Orders with more than 3 items:
+- Pékáru;4
+- Gyümölcs;5
+- Tej;6
+- Pékáru;7
+- Tej;4
+- Zöldség;5
+- Gyümölcs;4
+- Tej;5
+Most ordered product type: Tej
